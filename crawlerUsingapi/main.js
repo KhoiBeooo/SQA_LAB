@@ -8,7 +8,7 @@ var obj = {
 
     headers: {
         // 'Authorization': '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',
-        Authorization: 'token ' + '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',
+        Authorization: 'token ' + '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',
         'Accept': 'application/json',
         'Content-Type': 'application/json',
 
