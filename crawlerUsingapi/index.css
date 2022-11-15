@@ -1,0 +1,48 @@
+header {
+    text-align: left;
+    align-content: center;
+    background-color: #24292f;
+    padding: 20px 0;
+    width: 100%;
+}
+
+.input-link {
+    border-radius: 5px;
+    margin-left: 40px;
+    min-width: 300px;
+}
+
+.btn {
+    background-color: #24292f;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+ul {
+    margin-bottom: 0;
+    line-height: 30px;
+    border: solid 1px black;
+    padding: 20px;
+    background-color: #57606a;
+    color: white;
+}
+
+#releases {
+    background-color: #000;
+}
+
+#releases div {
+    padding-bottom: 50px;
+    border-bottom: 1px solid white;
+}
+
+tbody {
+    display: none;
+}
+
+#releases div table {
+    max-height: 1000px;
+    overflow-y: scroll;
+}
